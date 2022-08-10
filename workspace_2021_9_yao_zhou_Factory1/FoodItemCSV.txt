@@ -1,0 +1,4 @@
+1,Soy Milk,4.39
+2,Orgnic Corn,1.99
+3,White Bread,2.35
+4,Pizza,1.49
